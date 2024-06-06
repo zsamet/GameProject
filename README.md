@@ -31,7 +31,6 @@ Oyunu 160 skor ve üzerinde bir skorla tamamladığımızda yukarıdaki ekran g�
 Oyunu 160 puan altında tamamladığımızda yukarıdaki ekran gözükecektir.
 
 ## Oyun Videosu
+https://github.com/zsamet/GameProject/assets/120919685/e678515b-7059-44d3-a8fa-6c5682742692
 
-
-https://github.com/zsamet/GameProject/assets/120919685/dd2ce05a-2274-47f4-857d-df8f58cc8b4a
 
