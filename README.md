@@ -29,3 +29,9 @@ Oyunu 160 skor ve üzerinde bir skorla tamamladığımızda yukarıdaki ekran g�
 ![Ekran görüntüsü 2024-06-06 110631](https://github.com/zsamet/GameProject/assets/120919685/fb396337-4bdf-4a54-96d9-1bb320cfeff2)
 
 Oyunu 160 puan altında tamamladığımızda yukarıdaki ekran gözükecektir.
+
+## Oyun Videosu
+
+
+https://github.com/zsamet/GameProject/assets/120919685/dd2ce05a-2274-47f4-857d-df8f58cc8b4a
+
